@@ -51,7 +51,7 @@ This folder provides the **context required to understand downstream analytical 
 
 ---
 
-### 2. `EDA Script/`
+### 2. `EDA/`
 
 Contains all materials related to **exploratory data analysis and data preparation**.
 
@@ -72,7 +72,7 @@ This folder represents the **analytical backbone** of the project.
 
 ---
 
-### 3. `Power BI Dashboard/`
+### 3. `Dashboard/`
 
 Contains the **business intelligence deliverables** built on top of the analyzed data.
 
